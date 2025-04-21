@@ -1,6 +1,17 @@
 - 👋 Hi, I’m Nassif
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning more about how to create well typed FE 
+- Frontend Developer
+- my stack
+  - JS/TS
+  - React / React Native
+  - Expo
+  - Next JS
+  - Node
+
+- Currently interested in designing, animations and creating better mobile app experiences
+
+  
+
+
 
 
 <!---
